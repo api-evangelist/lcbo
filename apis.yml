@@ -33,6 +33,9 @@ x-category: "Food & Drink"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Food and Beverage
+  - Public APIs
+tags_raw:
   - Food And Drink
   - Public APIs
 apis:
@@ -41,6 +44,8 @@ apis:
     humanURL: https://lcboapi.com/
     baseURL: https://lcboapi.com/
     tags:
+      - Food and Beverage
+    tags_raw:
       - Food And Drink
     properties:
       - type: Documentation
